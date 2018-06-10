@@ -1,9 +1,7 @@
 title: Welcome
 author: pk
 email: pkrasam@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  It is quite amazing to be living in a time where one can 
-  design, build, ship, deploy a DApp on Ethereum
+description: It is quite amazing to be living in a time where one can design, build, ship, deploy a DApp on Ethereum
   
 # social links
 twitter_username: @pkrasam
@@ -11,5 +9,4 @@ github_username:  @Pkrasam
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-# theme: jekyll-theme-cayman
 theme: minima
